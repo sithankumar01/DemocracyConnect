@@ -1,0 +1,35 @@
+{
+  "home": {
+    "title1": "Understand the",
+    "title2": "Great Indian Election",
+    "subtitle": "DemocracyConnect makes learning about the world's largest democratic exercise simple, interactive, and fun.",
+    "start_learning": "Start Learning",
+    "features": {
+      "timeline": "Election Timeline",
+      "timeline_desc": "Explore the step-by-step process of how elections are conducted in India.",
+      "learn": "Learn Terms",
+      "learn_desc": "Master important election terminology using interactive flashcards.",
+      "quiz": "Test Your Knowledge",
+      "quiz_desc": "Take a fun quiz to see how much you know about Indian democracy.",
+      "chatbot": "Ask the AI",
+      "chatbot_desc": "Have questions? Chat with our AI assistant to get instant answers."
+    }
+  },
+  "timeline": {
+    "title1": "The",
+    "title2": "Election Process",
+    "subtitle": "Step-by-step guide to how elections are conducted in the world's largest democracy.",
+    "step1_title": "Election Notification",
+    "step1_desc": "The Election Commission of India (ECI) announces the schedule, and the Model Code of Conduct comes into effect.",
+    "step2_title": "Filing Nominations",
+    "step2_desc": "Candidates file their nomination papers along with an affidavit detailing their assets and criminal records.",
+    "step3_title": "Scrutiny & Withdrawal",
+    "step3_desc": "The Returning Officer scrutinizes the nominations. Valid candidates get a few days to withdraw if they choose to.",
+    "step4_title": "Campaigning",
+    "step4_desc": "Candidates campaign to win over voters. Campaigning stops 48 hours before polling begins.",
+    "step5_title": "Polling Day",
+    "step5_desc": "Citizens vote using Electronic Voting Machines (EVMs). A VVPAT slip confirms the vote was cast correctly.",
+    "step6_title": "Counting & Results",
+    "step6_desc": "Votes are counted on a scheduled day under strict security, and the results are declared."
+  }
+}
